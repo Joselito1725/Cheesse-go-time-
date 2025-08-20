@@ -1,0 +1,23 @@
+========================================Ideas para nivel 2 del Proyecto de FP Con Python - Ursina========================================
+1. La cocina
+La ratoncita debe cruzar una cocina vertical. Aquí habrá comida que se debe recoger para lograr el objetivo principal (comida para sus crías), no solamente habrán quesos, al ser una cocina habrá más variedad de alimentos. La cocina estará implementada de obstáculos que dificultarán a la ratoncita a cruzarla. Como idea de obstáculo hay, el lavabo lleno de agua en donde la ratoncita puede caer y perder, para cruzar este obstáculo hay una plataforma móvil encima que ayudará a sobrepasarla. Al final del pasillo (el extremo contrario de donde spawnea la ratoncita) habrá una pequeña rejilla por donde la ratoncita puede escapar o irse, esta se abrirá una vez se hayan recogido los alimentos.
+El enemigo principal puede ser un gato que merodea la zona, al ser enemigo natural de los ratones, al verla se la querrá comer. Es decir, el mecanismo que manejará este enemigo es que en cierto tiempo el gato merodeará la zona, la ratoncita debe quedarse quieta o esconderse (aún definiéndose) para que el gato no la atrape.
+======Posibles sonidos necesarios para el juego: 
+- Sonido del gato a punto de merodear la zona y cuando está merodeando. Este ayudará al jugador a saber cuándo vendrá el gato a merodear y cuándo se va.
+- Música de "suspenso" o "tensión" para sonido ambiental del nivel.
+- ...
+
+
+2. La Despensa Vertical (Idea sacada de Claude.ia)
+Un nivel que se desarrolla subiendo por los estantes de una despensa
+======Elementos:
+- Frascos que ruedan.
+- Plataformas que son diferentes niveles de estantes.
+- Algunas plataformas son móviles (productos que se están cayendo).
+- Quesos en diferentes niveles.
+- Power-ups en forma de migajas que dan salto extra temporal.
+- La meta está en lo alto de la despensa.
+
+3.Casa en el bosque
+
+4.Ciudad
